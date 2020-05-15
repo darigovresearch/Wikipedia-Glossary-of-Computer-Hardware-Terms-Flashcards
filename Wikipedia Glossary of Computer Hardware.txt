@@ -166,16 +166,20 @@
 <dd class=""glossary"">A device for reading <a href=""#floppy_disk""><span title=""See entry on this page at § floppy disk"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">floppy disks</span></a>.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Floppy-disk_controller"" title=""Floppy-disk controller"">floppy-disk controller</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Computer-Hardware-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_computer_hardware_terms"">""Glossary of computer hardware terms""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Free_and_open-source_graphics_device_driver"" title=""Free and open-source graphics device driver"">free and open-source graphics device driver</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Computer-Hardware-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_computer_hardware_terms"">""Glossary of computer hardware terms""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Graphics_hardware"" title=""Graphics hardware"">graphics hardware</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Computer-Hardware-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_computer_hardware_terms"">""Glossary of computer hardware terms""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Graphics_Processing_Unit"" class=""mw-redirect"" title=""Graphics Processing Unit"">Graphics Processing Unit</a> (GPU)"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Computer-Hardware-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_computer_hardware_terms"">""Glossary of computer hardware terms""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Hard_disk_drive"" title=""Hard disk drive"">hard disk drive</a> (HDD)"|"
 <dd class=""glossary"">Any non-volatile <a href=""#storage_medium""><span title=""See entry on this page at § storage medium"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">storage device</span></a> that stores data on rapidly rotating rigid (i.e. hard) platters with magnetic surfaces.</dd>
@@ -228,7 +232,8 @@
 <dd class=""glossary""><a href=""#memory""><span title=""See entry on this page at § Memory"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">memory</span></a> associated closely with a <a href=""#processing_element""><span title=""See entry on this page at § processing element"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">processing element</span></a>, e.g. a <a href=""#cache""><span title=""See entry on this page at § cache"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">cache</span></a>, <a href=""#scratchpad_memory""><span title=""See entry on this page at § scratchpad memory"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">scratchpad</span></a>, the memory connected to one <a href=""#processor_node""><span title=""See entry on this page at § processor node"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">processor node</span></a> in a <a href=""#nUMA""><span title=""See entry on this page at § NUMA"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">NUMA</span></a> or <a href=""#cOMA""><span title=""See entry on this page at § COMA"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">COMA</span></a> system, or <a href=""#device_memory""><span title=""See entry on this page at § device memory"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">device memory</span></a> (such as <a href=""#vRAM""><span title=""See entry on this page at § VRAM"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">VRAM</span></a>) in an <a href=""#accelerator""><span title=""See entry on this page at § accelerator"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">accelerator</span></a>.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Magneto-optical_drive"" title=""Magneto-optical drive"">magneto-optical drive</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Computer-Hardware-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_computer_hardware_terms"">""Glossary of computer hardware terms""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Mainframe_computer"" title=""Mainframe computer"">mainframe</a>"|"
 <dd class=""glossary"">An especially powerful computer used mainly by large organizations for bulk data processing such as census, industry and consumer statistics, enterprise resource planning, and financial transaction processing.</dd>
@@ -252,7 +257,8 @@
 <dd class=""glossary"">A memory architecture in a <a href=""https://en.wikipedia.org/wiki/Computer_system"" class=""mw-redirect"" title=""Computer system"">computer system</a>, e.g. <a href=""#nUMA""><span title=""See entry on this page at § NUMA"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">NUMA</span></a>, <a href=""#uniform_memory_access""><span title=""See entry on this page at § uniform memory access"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">uniform memory access</span></a>, <a href=""#cOMA""><span title=""See entry on this page at § COMA"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">COMA</span></a>, etc.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Memory_card"" title=""Memory card"">memory card</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Computer-Hardware-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_computer_hardware_terms"">""Glossary of computer hardware terms""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Mini-VGA"" title=""Mini-VGA"">mini-VGA</a>"|"
 <dd class=""glossary"">Small connectors used on some laptops and other systems in place of the standard <a href=""#vGA""><span title=""See entry on this page at § VGA"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">VGA</span></a> connector.</dd>
@@ -260,7 +266,8 @@
 "<a href=""https://en.wikipedia.org/wiki/Microcode"" title=""Microcode"">microcode</a>"|"
 <dd class=""glossary"">A layer of hardware-level instructions involved in the implementation of higher level machine code instructions in many computers and other processors.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Modem"" title=""Modem"">modem</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Computer-Hardware-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_computer_hardware_terms"">""Glossary of computer hardware terms""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Modified_Harvard_architecture"" title=""Modified Harvard architecture"">modified Harvard architecture</a>"|"
 <dd class=""glossary"">A variation of <a href=""#harvard_architecture""><span title=""See entry on this page at § Harvard architecture"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">Harvard architecture</span></a> used for most <a href=""#cPU""><span title=""See entry on this page at § CPU"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">CPUs</span></a> with separate non-coherent <a href=""#instruction_cache""><span title=""See entry on this page at § instruction cache"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">instruction</span></a> and <a href=""#data_cache""><span title=""See entry on this page at § data cache"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">data caches</span></a> (assuming that code is immutable), but still mirroring the same <a href=""#main_memory""><span title=""See entry on this page at § main memory"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">main memory</span></a> <a href=""#address_space""><span title=""See entry on this page at § address space"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">address space</span></a>, and possibly sharing higher levels of the same <a href=""https://en.wikipedia.org/wiki/Cache_hierarchy"" title=""Cache hierarchy"">cache hierarchy</a>.</dd>
@@ -379,7 +386,8 @@
 <dd class=""glossary"">An internal <a href=""#expansion_card""><span title=""See entry on this page at § expansion card"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">expansion card</span></a> that facilitates economical input and output of <a href=""https://en.wikipedia.org/wiki/Sound"" title=""Sound"">audio signals</a> to and from a computer under control of computer programs.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Storage_device_(computing)"" class=""mw-redirect"" title=""Storage device (computing)"">storage device</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Computer-Hardware-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_computer_hardware_terms"">""Glossary of computer hardware terms""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Synchronous_dynamic_random-access_memory"" title=""Synchronous dynamic random-access memory"">synchronous dynamic random-access memory</a> (SDRAM)"|"
 <dd class=""glossary"">A type of <a href=""#dynamic_random_access_memory""><span title=""See entry on this page at § dynamic random access memory"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">dynamic random access memory</span></a> that is synchronized with the <a href=""https://en.wikipedia.org/wiki/System_bus"" title=""System bus"">system bus</a>.</dd>
@@ -398,7 +406,8 @@
 <dd class=""glossary"">A <a href=""#pointing_device""><span title=""See entry on this page at § pointing device"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">pointing device</span></a> consisting of specialized surface that can translate the motion and position of a user's <a href=""https://en.wikipedia.org/wiki/Fingers"" class=""mw-redirect"" title=""Fingers"">fingers</a> or a <a href=""#stylus""><span title=""See entry on this page at § stylus"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">stylus</span></a> to a relative position on a screen.<sup id=""cite_ref-7"" class=""reference""><a href=""#cite_note-7"">&#91;7&#93;</a></sup></dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/TV_tuner_card"" title=""TV tuner card"">TV tuner card</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Computer-Hardware-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_computer_hardware_terms"">""Glossary of computer hardware terms""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Universal_Serial_Bus"" class=""mw-redirect"" title=""Universal Serial Bus"">Universal Serial Bus</a> (USB)"|"<span id=""USB""></span>
 <dd class=""glossary"">A specification to establish communication between devices and a host controller (usually a <a href=""#personal_computer""><span title=""See entry on this page at § personal computer"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">personal computer</span></a>).</dd>
