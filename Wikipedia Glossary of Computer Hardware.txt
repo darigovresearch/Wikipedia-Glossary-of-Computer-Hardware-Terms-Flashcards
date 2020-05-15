@@ -107,36 +107,6 @@
 <dd class="glossary">The portion of a computer system that executes the instructions of a computer program.</dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <p><br />
 </p>
 <dl class="glossary">
@@ -181,36 +151,6 @@
 <dd class="glossary">A type of random-access memory that stores each bit of data in a separate capacitor within an integrated circuit and which must be periodically refreshed to retain the stored data.</dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="expansion_bus" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Expansion_bus" class="mw-redirect" title="Expansion bus">expansion bus</a></dfn></dt>
 <dd class="glossary">A <a href="#bus"><span title="See entry on this page at § bus" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">computer bus</span></a> which moves information between the internal hardware of a computer system (including the CPU and RAM) and peripheral devices. It is a collection of wires and <a href="/wiki/Communications_protocol" class="mw-redirect" title="Communications protocol">protocols</a> that allows for the expansion of a computer.</dd>
@@ -243,36 +183,6 @@
 <dd class="glossary"></dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="graphics_hardware" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Graphics_hardware" title="Graphics hardware">graphics hardware</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -295,36 +205,6 @@
 <dd class="glossary">A compact interface for transferring encrypted uncompressed digital audio and video data to a device such as a computer monitor, video projector or digital television.</dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="input_device" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Input_device" title="Input device">input device</a></dfn></dt>
 <dd class="glossary">Any peripheral equipment used to provide data and control signals to an information processing system.</dd>
@@ -350,36 +230,6 @@
 <dd class="glossary">A miniaturised <a href="/wiki/Electronic_circuit" title="Electronic circuit">electronic circuit</a> that has been manufactured in the surface of a thin substrate of <a href="/wiki/Semiconductor" title="Semiconductor">semiconductor</a> material.</dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="jump_drive" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Jump_drive" class="mw-redirect" title="Jump drive">jump drive</a></dfn></dt>
 <dd class="glossary">Another name for a <a href="#uSB_flash_drive"><span title="See entry on this page at § USB flash drive" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">USB flash drive</span></a>.</dd>
@@ -401,36 +251,6 @@
 <dd class="glossary"><a href="#memory"><span title="See entry on this page at § Memory" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">memory</span></a> associated closely with a <a href="#processing_element"><span title="See entry on this page at § processing element" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">processing element</span></a>, e.g. a <a href="#cache"><span title="See entry on this page at § cache" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">cache</span></a>, <a href="#scratchpad_memory"><span title="See entry on this page at § scratchpad memory" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">scratchpad</span></a>, the memory connected to one <a href="#processor_node"><span title="See entry on this page at § processor node" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">processor node</span></a> in a <a href="#nUMA"><span title="See entry on this page at § NUMA" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">NUMA</span></a> or <a href="#cOMA"><span title="See entry on this page at § COMA" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">COMA</span></a> system, or <a href="#device_memory"><span title="See entry on this page at § device memory" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">device memory</span></a> (such as <a href="#vRAM"><span title="See entry on this page at § VRAM" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">VRAM</span></a>) in an <a href="#accelerator"><span title="See entry on this page at § accelerator" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">accelerator</span></a>.</dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="magneto-optical_drive" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Magneto-optical_drive" title="Magneto-optical drive">magneto-optical drive</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -481,36 +301,6 @@
 <dd class="glossary">A <a href="#pointing_device"><span title="See entry on this page at § pointing device" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">pointing device</span></a> that functions by detecting two-dimensional motion relative to its supporting surface; motion is usually mapped to a cursor in <a href="/wiki/Screen_space" class="mw-redirect" title="Screen space">screen space</a>; typically used to control a <a href="/wiki/Graphical_user_interface" title="Graphical user interface">graphical user interface</a> on a <a href="/wiki/Desktop_computer" title="Desktop computer">desktop computer</a> or for <a href="/wiki/Computer-aided_design" title="Computer-aided design">CAD</a>, etc.</dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="network" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Computer_network" title="Computer network">network</a></dfn></dt>
 <dd class="glossary">A collection of computers and other devices connected by communications channels, e.g. by <a href="/wiki/Ethernet" title="Ethernet">Ethernet</a> or <a href="/wiki/Wireless_network" title="Wireless network">wireless networking</a>.</dd>
@@ -532,36 +322,6 @@
 <dd class="glossary"><a href="#random-access_memory"><span title="See entry on this page at § random-access memory" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">Random-access memory</span></a> (RAM) that retains its data when power is turned off.</dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="operating_system" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Operating_system" title="Operating system">operating system</a></dfn></dt>
 <dd class="glossary">The set of software that manages computer <a href="#hardware_resource"><span title="See entry on this page at § hardware resource" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">hardware resources</span></a> and provides common services for <a href="/wiki/Computer_program" title="Computer program">computer programs</a>, typically loaded by the <a href="/wiki/BIOS" title="BIOS">BIOS</a> on <a href="/wiki/Booting" title="Booting">booting</a>.</dd>
@@ -620,36 +380,6 @@
 <dd class="glossary">An <a href="#expansion_bus"><span title="See entry on this page at § expansion bus" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">expansion bus</span></a> and <a href="#expansion_card"><span title="See entry on this page at § expansion card" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">expansion card</span></a> standard that enhances the 32-bit PCI Local Bus for higher bandwidth demanded by servers.</dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="redundant_array_of_independent_disks_(raid)" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Redundant_Array_of_Independent_Disks" class="mw-redirect" title="Redundant Array of Independent Disks">Redundant Array of Independent Disks</a> (RAID)</dfn></dt>
 <dd class="glossary">Any of various data storage schemes that can divide and replicate data across multiple hard disk drives in order to increase reliability, allow faster access, or both.</dd>
@@ -693,36 +423,6 @@
 <dd class="glossary">A high-speed, high-capacity alternative to the 90 mm (3.5 in), 1.44 <a href="/wiki/Megabyte" title="Megabyte">MB</a> floppy disk. The SuperDisk hardware was created by 3M's storage products group <a href="/wiki/Imation" class="mw-redirect" title="Imation">Imation</a> in 1997.</dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="tape_drive" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Tape_drive" title="Tape drive">tape drive</a></dfn></dt>
 <dd class="glossary">A peripheral <a href="#storage_medium"><span title="See entry on this page at § storage medium" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">storage device</span></a> that allows only <a href="/wiki/Sequential_access" title="Sequential access">sequential access</a>, typically using <a href="/wiki/Magnetic_tape" title="Magnetic tape">magnetic tape</a>.</dd>
@@ -751,36 +451,6 @@
 <dd class="glossary">A <a href="#flash_memory"><span title="See entry on this page at § flash memory" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">flash memory</span></a> device integrated with a <a href="#uSB"><span title="See entry on this page at § USB" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">USB</span></a> interface. USB flash drives are typically removable and rewritable.</dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="video_card" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Video_card" title="Video card">video card</a></dfn></dt>
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also <b>graphics card</b>.</span></p>
