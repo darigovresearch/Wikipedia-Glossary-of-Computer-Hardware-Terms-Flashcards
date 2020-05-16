@@ -1,3 +1,17 @@
+"Introduction (Wikipedia Glossary of Computer Hardware Terms)"|"
+<p>This deck has taken definitions outlined in <a href=""https://en.wikipedia.org/wiki/Glossary_of_computer_hardware_terms"">Wikipedia's Glossary of computer hardware terms</a> and put them into a form which can be easily learnt/revised using <a href=""https://apps.ankiweb.net/"">Anki</a> a cross platform app specifically designed for long term knowledge retention.</p>
+<h2>Notes</h2>
+<p>Please note the modifications which have been made &amp; where you can find updates.</p>
+<ol align=""left"">
+<li>The front of every card has ""(Wikipedia Glossary of Computer Hardware Terms)"" appended to the end so that if you have any other words in your collection, the Wikipedia definition will still be added when importing it.</li>
+<li>Any updates or corrections to the deck will be available at <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Computer-Hardware-Terms-Flashcards"">https://github.com/darigovresearch/Wikipedia-Glossary-of-Computer-Hardware-Terms-Flashcards</a> so do return periodically to check if you have the latest version.</li>
+</ol>
+<p>Feel free to share the deck and give the repository a star so more people are likely to see this work and can get the most out of it.</p>
+<h2>License</h2>
+<p>Unless otherwise specified, everything in this deck is covered by the following licence:</p>
+<p>This deck uses material from the Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_computer_hardware_terms"">""Glossary of computer hardware terms""</a>, which is released under the <a href=""https://creativecommons.org/licenses/by-sa/3.0/"">Creative Commons Attribution-Share-Alike License 3.0</a>.</p>
+<p>To see this work in full go to <a href=""https://en.wikipedia.org/wiki/Glossary_of_computer_hardware_terms"">https://en.wikipedia.org/wiki/Glossary_of_computer_hardware_terms</a></p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Accelerated_Graphics_Port"" title=""Accelerated Graphics Port"">Accelerated Graphics Port</a> (AGP) (Wikipedia Glossary of Computer Hardware Terms)"|"<span id=""agp""></span><span id=""Accelerated_Graphics_Port""></span>
 A high-speed point-to-point channel for attaching a <a href=""https://en.wikipedia.org/wiki/Glossary_of_computer_hardware_terms#video_card""><span title=""See entry on this page at § video card"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">video card</span></a> to a computer's <a href=""https://en.wikipedia.org/wiki/Glossary_of_computer_hardware_terms#motherboard""><span title=""See entry on this page at § motherboard"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">motherboard</span></a>, primarily to assist in the acceleration of <a href=""https://en.wikipedia.org/wiki/3D_computer_graphics"" title=""3D computer graphics"">3D computer graphics</a>.
 "
